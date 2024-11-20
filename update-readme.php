@@ -1,4 +1,5 @@
 <?php
+date_default_timezone_set('Asia/Ho_Chi_Minh');
 function isWeekend() {
     $now = new DateTime();
     return (date('N', strtotime($now->format('Y-m-d H:i:s'))) >= 6);
