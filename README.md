@@ -1,16 +1,21 @@
-## Hi there 👋
+### Good afternoon 👋
+<h2>I'm Trung, a Culi Engineer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!--
-**trungdv-fabbi/trungdv-fabbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"></a>
+- Understands <code>OOP</code> well
+- <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
+- Strong skills in <code>JQuery</code>, <code>MySQL</code>, <code>PHP</code>
+- Excellent with the <code>Laravel</code> framework for web design
+- Proficient with <code>Git</code>
+- Learning the <code>Agile</code> mindset
+- Knowledge of <code>Vue.js</code>, <code>Vuex</code> and <code>Nuxt JS</code>
+- Experience in manual and <code>automated deployment</code>
 
-Here are some ideas to get you started:
+## <img src="https://images.viblo.asia/a22cc9ed-e446-4eae-ad55-1ddf8afbaa54.gif" width="30" /> <img src="https://emojis.slackmojis.com/emojis/images/1643515721/17468/homersimpson-pbjdance.gif?1643515721" width="30" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
+
+## Quote of the day:
+<em>&quot;Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.&quot;</em> <br>
+— Richard Bach
