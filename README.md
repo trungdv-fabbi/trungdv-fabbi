@@ -1,4 +1,4 @@
-Good evening 💡
+Good evening 🎉
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good evening 💡
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Sunny +28°C 45% ↙9km/h
+- Clear +25°C 54% ↖10km/h
 
 ## 🌟 Quote of the day:
-Nothing ever goes away until it has taught us what we need to know.
--Pema Chodron
+Superstars think like superstars long before the fans or the press anoint them.
+-John Eliot
