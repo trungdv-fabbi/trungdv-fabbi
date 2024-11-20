@@ -1,4 +1,4 @@
-Good night 🔥
+Good night 🏝
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good night 🔥
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Clear +23°C 69% ↖9km/h
+- Clear +20°C 73% ↖4km/h
 
 ## 🌟 Quote of the day:
-Fear is a natural reaction to moving closer to the truth.
--Pema Chodron
+It matters not what someone is born, but what they grow to be.
+-Albus Dumbledore
