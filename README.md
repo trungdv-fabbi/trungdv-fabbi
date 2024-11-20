@@ -1,7 +1,4 @@
-### Good afternoon 👋
-<h2>I'm Trung, a Culi Engineer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
+Good evening 🌟
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -16,6 +13,9 @@
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
-## Quote of the day:
-<em>&quot;Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.&quot;</em> <br>
-— Richard Bach
+## 🌤️ Weather conditions today in Ha Noi:
+- Sunny +28°C 45% ↙9km/h
+
+## 🌟 Quote of the day:
+Many a man has failed because he had his wishbone where his backbone should have been.
+-Ronald Reagan
