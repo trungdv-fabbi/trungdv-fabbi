@@ -17,5 +17,5 @@ Good night 🔥
 - Clear +23°C 69% ↖9km/h
 
 ## 🌟 Quote of the day:
-As you love yourself, life loves you back.
--Kamal Ravikant
+Fear is a natural reaction to moving closer to the truth.
+-Pema Chodron
