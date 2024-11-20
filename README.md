@@ -1,4 +1,4 @@
-Good evening 🌟
+Good morning 🎶
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -17,5 +17,5 @@ Good evening 🌟
 - Sunny +28°C 45% ↙9km/h
 
 ## 🌟 Quote of the day:
-Many a man has failed because he had his wishbone where his backbone should have been.
--Ronald Reagan
+Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.
+-Mark Twain
