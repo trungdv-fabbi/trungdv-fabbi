@@ -1,4 +1,4 @@
-Good night 🏝
+Good morning 💡
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -17,5 +17,5 @@ Good night 🏝
 - Clear +20°C 73% ↖4km/h
 
 ## 🌟 Quote of the day:
-It matters not what someone is born, but what they grow to be.
--Albus Dumbledore
+Optimism, when applied to your life, develops strength and peace within you.
+-Norman Vincent Peale
