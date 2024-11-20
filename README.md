@@ -1,4 +1,4 @@
-Good evening 🎶
+Good evening 🍀
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good evening 🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Clear +25°C 54% ↖10km/h
+- Clear +23°C 69% ↖9km/h
 
 ## 🌟 Quote of the day:
-Decide whether or not the goal is worth the risks involved. If it is, stop worrying.
--Amelia Earhart
+Expect the best of yourself, and then do what is necessary to make it a reality.
+-Ralph Marston
