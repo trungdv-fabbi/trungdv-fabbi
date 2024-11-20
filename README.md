@@ -1,4 +1,4 @@
-Good night 🍀
+Good night 🔥
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -17,5 +17,5 @@ Good night 🍀
 - Clear +23°C 69% ↖9km/h
 
 ## 🌟 Quote of the day:
-Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.
--Roy T. Bennett
+As you love yourself, life loves you back.
+-Kamal Ravikant
