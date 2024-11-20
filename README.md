@@ -1,4 +1,4 @@
-Good evening 🎉
+Good evening 🎶
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -17,5 +17,5 @@ Good evening 🎉
 - Clear +25°C 54% ↖10km/h
 
 ## 🌟 Quote of the day:
-By words the mind is winged.
--Aristophanes
+Decide whether or not the goal is worth the risks involved. If it is, stop worrying.
+-Amelia Earhart
