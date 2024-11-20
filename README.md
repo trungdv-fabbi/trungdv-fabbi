@@ -1,4 +1,4 @@
-Good evening 👋
+Good evening 💡
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -17,5 +17,5 @@ Good evening 👋
 - Sunny +28°C 45% ↙9km/h
 
 ## 🌟 Quote of the day:
-Wise people, even though all laws were abolished, would still lead the same life.
--Aristophanes
+Nothing ever goes away until it has taught us what we need to know.
+-Pema Chodron
