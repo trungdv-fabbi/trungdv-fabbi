@@ -1,4 +1,4 @@
-Good morning 💡
+Good morning 📅
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good morning 💡
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Clear +20°C 73% ↖4km/h
+- Sunny +19°C 78% ↓10km/h
 
 ## 🌟 Quote of the day:
-Optimism, when applied to your life, develops strength and peace within you.
--Norman Vincent Peale
+The future belongs to those who believe in the beauty of their dreams.
+-Eleanor Roosevelt
