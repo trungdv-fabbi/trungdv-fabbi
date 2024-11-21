@@ -1,4 +1,4 @@
-Good evening 💡
+Good evening 🚀
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good evening 💡
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Clear +24°C 61% ←4km/h
+- Clear +22°C 73% ↖13km/h
 
 ## 🌟 Quote of the day:
-When you are able to employ your will always for constructive purposes, you become the controller of your destiny.
--Paramahansa Yogananda
+Love doesn't need reason. It speaks from the irrational wisdom of the heart.
+-Deepak Chopra
