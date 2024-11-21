@@ -17,5 +17,5 @@ Good afternoon 💡
 - Sunny +23°C 57% ↓13km/h
 
 ## 🌟 Quote of the day:
-Always focus on the front windshield and not the rear view mirror.
--Colin Powell
+Passion is born deaf and dumb.
+-Honore de Balzac
