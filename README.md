@@ -1,4 +1,4 @@
-Good afternoon 💡
+Good afternoon 🔥
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good afternoon 💡
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Sunny +23°C 57% ↓13km/h
+- Sunny +26°C 51% ↙8km/h
 
 ## 🌟 Quote of the day:
-Passion is born deaf and dumb.
--Honore de Balzac
+Life is like a beautiful melody, only the lyrics are messed up.
+-Hans Christian Andersen
