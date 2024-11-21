@@ -1,4 +1,4 @@
-Good afternoon 🔥
+Good evening 🏝
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -17,5 +17,5 @@ Good afternoon 🔥
 - Sunny +26°C 51% ↙8km/h
 
 ## 🌟 Quote of the day:
-Life is like a beautiful melody, only the lyrics are messed up.
--Hans Christian Andersen
+Heart is what separates the good from the great.
+-Michael Jordan
