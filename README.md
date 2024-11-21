@@ -1,4 +1,4 @@
-Good night 🏝
+Good night 🌈
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -17,5 +17,5 @@ Good night 🏝
 - Clear +22°C 69% ↖10km/h
 
 ## 🌟 Quote of the day:
-The wisest men follow their own direction.
--Euripides
+Dreams are the royal road to the unconscious. 
+-Sigmund Freud
