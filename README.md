@@ -1,4 +1,4 @@
-Good night 🌈
+Good night 😴
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good night 🌈
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Clear +22°C 69% ↖10km/h
+- Clear +20°C 68% ↓4km/h
 
 ## 🌟 Quote of the day:
-Dreams are the royal road to the unconscious. 
--Sigmund Freud
+Intense love does not measure, it just gives.
+-Mother Teresa
