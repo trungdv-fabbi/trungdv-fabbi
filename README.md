@@ -1,4 +1,4 @@
-Good evening 📅
+Good evening 🎶
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good evening 📅
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Sunny +26°C 51% ↙8km/h
+- Clear +24°C 61% ←4km/h
 
 ## 🌟 Quote of the day:
-As you think, so shall you become. 
--Bruce Lee
+Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.
+-Les Brown
