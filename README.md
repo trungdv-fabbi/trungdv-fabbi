@@ -1,4 +1,4 @@
-Good night 😴
+Good morning 😴
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -17,5 +17,5 @@ Good night 😴
 - Clear +20°C 68% ↓4km/h
 
 ## 🌟 Quote of the day:
-Intense love does not measure, it just gives.
--Mother Teresa
+Don´t hesitate or allow yourself to make excuses. Just get out and do it.
+-Christopher McCandless
