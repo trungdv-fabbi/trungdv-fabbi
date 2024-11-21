@@ -1,4 +1,4 @@
-Good evening 🎶
+Good evening 🌈
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -17,5 +17,5 @@ Good evening 🎶
 - Clear +24°C 61% ←4km/h
 
 ## 🌟 Quote of the day:
-Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.
--Les Brown
+The more you feed your mind with positive thoughts, the more you can attract great things into your life.
+-Roy T. Bennett
