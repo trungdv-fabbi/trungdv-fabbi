@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Clear +23°C 69% ↖8km/h
 
 ## 🌟 Quote of the day:
-Doing what you love is the cornerstone of having abundance in your life. 
--Wayne Dyer
+Your dream has to be bigger than your fear.
+-Steve Harvey
