@@ -1,4 +1,4 @@
-Good evening 💡
+Good evening 🚀
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good evening 💡
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Clear +24°C 54% ↖15km/h
+- Clear +23°C 69% ↖12km/h
 
 ## 🌟 Quote of the day:
-Don't wait for the right opportunity: create it.
--George Bernard Shaw
+Information changes your mind. Action changes your circumstances.
+-Jack Butcher
