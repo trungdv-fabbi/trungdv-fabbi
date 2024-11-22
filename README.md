@@ -1,4 +1,4 @@
-Good evening 🎶
+Good evening 🌈
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -17,5 +17,5 @@ Good evening 🎶
 - Sunny +28°C 42% ↖9km/h
 
 ## 🌟 Quote of the day:
-Mistake is a mistake only if you make it twice.
--Robin Sharma
+The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+-Carl Jung
