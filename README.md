@@ -1,4 +1,4 @@
-Good afternoon 🌟
+Good evening 🌟
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -17,5 +17,5 @@ Good afternoon 🌟
 - Sunny +28°C 42% ↖9km/h
 
 ## 🌟 Quote of the day:
-A real friend is one who walks in when the rest of the world walks out.
--Unknown
+Hold yourself responsible for a higher standard than anybody else expects of you.
+-Henry Ward Beecher
