@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Clear +20°C 83% ↖4km/h
 
 ## 🌟 Quote of the day:
-A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.
--Ming-Dao Deng
+Comedy = tragedy + time.
+-Carol Burnett
