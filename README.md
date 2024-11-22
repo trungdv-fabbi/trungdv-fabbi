@@ -14,8 +14,8 @@ Good evening 🌈
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Sunny +28°C 42% ↖9km/h
+- Clear +24°C 54% ↖15km/h
 
 ## 🌟 Quote of the day:
-The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
--Carl Jung
+When you love someone, you love the person as they are, and not as you'd like them to be.
+-Leo Tolstoy
