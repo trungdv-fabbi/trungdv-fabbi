@@ -1,4 +1,4 @@
-Good morning 📅
+Good afternoon 🚀
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good morning 📅
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Sunny +20°C 64% ↓11km/h
+- Sunny +25°C 51% ↙13km/h
 
 ## 🌟 Quote of the day:
-To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.
--Johann Wolfgang von Goethe
+Failure is the highway to success.
+-Og Mandino
