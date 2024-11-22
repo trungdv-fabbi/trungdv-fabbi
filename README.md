@@ -1,4 +1,4 @@
-Good evening 🌈
+Good evening 💻
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -17,5 +17,5 @@ Good evening 🌈
 - Clear +24°C 54% ↖15km/h
 
 ## 🌟 Quote of the day:
-When you love someone, you love the person as they are, and not as you'd like them to be.
--Leo Tolstoy
+Genius is the ability to act rightly without precedent - the power to do the right thing the first time.
+-Elbert Hubbard
