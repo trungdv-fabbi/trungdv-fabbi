@@ -1,4 +1,4 @@
-Good afternoon 🌈
+Good afternoon 🌟
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good afternoon 🌈
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Sunny +25°C 51% ↙13km/h
+- Sunny +28°C 42% ↖9km/h
 
 ## 🌟 Quote of the day:
-If you don't like something, change it. If you can't change it, change your attitude.
--Maya Angelou
+A real friend is one who walks in when the rest of the world walks out.
+-Unknown
