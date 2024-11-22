@@ -1,4 +1,4 @@
-Good afternoon 🚀
+Good afternoon 🌈
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -17,5 +17,5 @@ Good afternoon 🚀
 - Sunny +25°C 51% ↙13km/h
 
 ## 🌟 Quote of the day:
-Failure is the highway to success.
--Og Mandino
+If you don't like something, change it. If you can't change it, change your attitude.
+-Maya Angelou
