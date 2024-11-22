@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Clear +23°C 69% ↖8km/h
+- Clear +20°C 83% ↖4km/h
 
 ## 🌟 Quote of the day:
-Your dream has to be bigger than your fear.
--Steve Harvey
+A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.
+-Ming-Dao Deng
