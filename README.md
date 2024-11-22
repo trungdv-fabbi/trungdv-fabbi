@@ -1,4 +1,4 @@
-Good evening 🚀
+Good night 👋
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good evening 🚀
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Clear +23°C 69% ↖12km/h
+- Clear +23°C 69% ↖8km/h
 
 ## 🌟 Quote of the day:
-Information changes your mind. Action changes your circumstances.
--Jack Butcher
+The friend is the man who knows all about you, and still likes you.
+-Elbert Hubbard
