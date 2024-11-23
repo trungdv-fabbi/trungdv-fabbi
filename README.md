@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Clear +23°C 69% ↖11km/h
 
 ## 🌟 Quote of the day:
-Truth is not something outside to be discovered, it is something inside to be realized.
--Osho
+The great use of life is to spend it for something that will outlast it.
+-William James
