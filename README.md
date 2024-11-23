@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Sunny +26°C 45% ↑11km/h
 
 ## 🌟 Quote of the day:
-Never whine, never complain, never try to justify yourself.
--Robert Greene
+If you done it, it ain't bragging.
+-Walt Whitman
