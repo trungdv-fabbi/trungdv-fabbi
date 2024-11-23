@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Sunny +20°C 78% ↓10km/h
+- Sunny +24°C 50% ↙9km/h
 
 ## 🌟 Quote of the day:
-It's your life-but only if you make it so.
--Eleanor Roosevelt
+Words can only have a positive effect on others if and when they are ready to listen.
+-Christopher Reeve
