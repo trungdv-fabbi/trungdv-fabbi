@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Sunny +24°C 50% ↙9km/h
+- Sunny +26°C 45% ↑11km/h
 
 ## 🌟 Quote of the day:
-No snowflake ever falls in the wrong place.
--Zen Proverb
+Do anything, but let it produce joy.
+-Walt Whitman
