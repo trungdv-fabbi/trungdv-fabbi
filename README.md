@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Sunny +26°C 45% ↑11km/h
+- Clear +24°C 57% ↖19km/h
 
 ## 🌟 Quote of the day:
-As a man thinketh in his heart, so shall he be.
--James Allen
+Success is not to be pursued, it is to be attracted by the person you become.
+-Jim Rohn
