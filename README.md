@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Clear +24°C 57% ↖19km/h
+- Clear +24°C 61% ↖13km/h
 
 ## 🌟 Quote of the day:
-There are two kinds of perfect people: those who are dead, and those who have not been born yet.
--Chinese Proverb
+The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.
+-Naval Ravikant
