@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Sunny +20°C 78% ↓10km/h
 
 ## 🌟 Quote of the day:
-We are all here for some special reason.
--Robin Sharma
+It's your life-but only if you make it so.
+-Eleanor Roosevelt
