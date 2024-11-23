@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Clear +23°C 69% ↖11km/h
+- Clear +20°C 88% ←6km/h
 
 ## 🌟 Quote of the day:
-The great use of life is to spend it for something that will outlast it.
--William James
+When you know what you want, and want it bad enough, you will find a way to get it.
+-Jim Rohn
