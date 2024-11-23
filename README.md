@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Clear +20°C 83% ↖4km/h
+- Sunny +20°C 78% ↓10km/h
 
 ## 🌟 Quote of the day:
-Comedy = tragedy + time.
--Carol Burnett
+We are all here for some special reason.
+-Robin Sharma
