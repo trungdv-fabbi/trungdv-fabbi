@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Sunny +26°C 45% ↑11km/h
 
 ## 🌟 Quote of the day:
-Do anything, but let it produce joy.
--Walt Whitman
+Never whine, never complain, never try to justify yourself.
+-Robert Greene
