@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Clear +23°C 69% ↖11km/h
 
 ## 🌟 Quote of the day:
-If you can't explain it simply, you don't understand it well enough.
--Albert Einstein
+Truth is not something outside to be discovered, it is something inside to be realized.
+-Osho
