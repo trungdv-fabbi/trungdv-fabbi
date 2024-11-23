@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Clear +24°C 57% ↖19km/h
 
 ## 🌟 Quote of the day:
-Success is not to be pursued, it is to be attracted by the person you become.
--Jim Rohn
+There are two kinds of perfect people: those who are dead, and those who have not been born yet.
+-Chinese Proverb
