@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Clear +24°C 61% ↖13km/h
 
 ## 🌟 Quote of the day:
-The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.
--Naval Ravikant
+The more one judges, the less one loves.
+-Honore de Balzac
