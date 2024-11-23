@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Sunny +24°C 50% ↙9km/h
 
 ## 🌟 Quote of the day:
-Words can only have a positive effect on others if and when they are ready to listen.
--Christopher Reeve
+No snowflake ever falls in the wrong place.
+-Zen Proverb
