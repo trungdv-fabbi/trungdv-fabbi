@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Clear +24°C 61% ↖13km/h
+- Clear +23°C 69% ↖11km/h
 
 ## 🌟 Quote of the day:
-The more one judges, the less one loves.
--Honore de Balzac
+If you can't explain it simply, you don't understand it well enough.
+-Albert Einstein
