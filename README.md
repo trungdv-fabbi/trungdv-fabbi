@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Sunny +26°C 45% ↑11km/h
 
 ## 🌟 Quote of the day:
-If you done it, it ain't bragging.
--Walt Whitman
+As a man thinketh in his heart, so shall he be.
+-James Allen
