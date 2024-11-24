@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Overcast +21°C 74% ↙6km/h
+- Overcast +24°C 65% ↓6km/h
 
 ## 🌟 Quote of the day:
-Believe and you're halfway there.
--Harry S. Truman
+Leaders think and talk about solutions. Followers think and talk about the problems.
+-Brian Tracy
