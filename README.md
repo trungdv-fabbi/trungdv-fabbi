@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Mist +22°C 83% ←4km/h
+- Partly cloudy +22°C 83% ↙4km/h
 
 ## 🌟 Quote of the day:
-Courage is fear that has said its prayers and decided to go forward anyway.
--Joyce Meyer
+It's very strange that the people you love are often the people you're most cruel to.
+-Kenneth Branagh
