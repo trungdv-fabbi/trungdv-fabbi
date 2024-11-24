@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Partly cloudy +23°C 73% ↖8km/h
 
 ## 🌟 Quote of the day:
-Success is liking yourself, liking what you do, and liking how you do it.
--Maya Angelou
+Would you rather learn to deal with the truth now than be forced to do so later on?
+-Celestine Chua
