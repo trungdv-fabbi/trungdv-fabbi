@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Mist +22°C 83% ←4km/h
 
 ## 🌟 Quote of the day:
-Obstacles don't block the path, they are the path.
--Zen Proverb
+Courage is fear that has said its prayers and decided to go forward anyway.
+-Joyce Meyer
