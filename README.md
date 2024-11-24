@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Partly cloudy +23°C 73% ↖8km/h
+- Mist +22°C 83% ←4km/h
 
 ## 🌟 Quote of the day:
-The nearer a man comes to a calm mind, the closer he is to strength.
--Marcus Aurelius
+Obstacles don't block the path, they are the path.
+-Zen Proverb
