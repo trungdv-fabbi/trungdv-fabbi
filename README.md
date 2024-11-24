@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Partly cloudy +25°C 61% ↗4km/h
+- Partly cloudy +24°C 69% ↖8km/h
 
 ## 🌟 Quote of the day:
-Behind every cloud is another cloud.
--Judy Garland
+The opposite of courage in our society is not cowardice... it is conformity.
+-Earl Nightingale
