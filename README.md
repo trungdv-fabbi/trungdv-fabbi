@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Clear +20°C 88% ←6km/h
+- Overcast +21°C 74% ↙6km/h
 
 ## 🌟 Quote of the day:
-When you know what you want, and want it bad enough, you will find a way to get it.
--Jim Rohn
+Let not your mind run on what you lack as much as on what you have already.
+-Marcus Aurelius
