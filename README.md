@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Partly cloudy +24°C 69% ↖8km/h
 
 ## 🌟 Quote of the day:
-The opposite of courage in our society is not cowardice... it is conformity.
--Earl Nightingale
+The best answer to anger is silence.
+-Marcus Aurelius
