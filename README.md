@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Overcast +21°C 74% ↙6km/h
 
 ## 🌟 Quote of the day:
-Let not your mind run on what you lack as much as on what you have already.
--Marcus Aurelius
+Believe and you're halfway there.
+-Harry S. Truman
