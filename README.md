@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Partly cloudy +25°C 61% ↗4km/h
 
 ## 🌟 Quote of the day:
-The greatest miracle is to be alive.
--Thich Nhat Hanh
+I know not all that may be coming, but be it what it will, I'll go to it laughing.
+-Herman Melville
