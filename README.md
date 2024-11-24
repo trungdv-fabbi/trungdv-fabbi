@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Partly cloudy +24°C 69% ↖8km/h
+- Partly cloudy +23°C 73% ↖8km/h
 
 ## 🌟 Quote of the day:
-The best answer to anger is silence.
--Marcus Aurelius
+Success is liking yourself, liking what you do, and liking how you do it.
+-Maya Angelou
