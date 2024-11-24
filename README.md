@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Overcast +24°C 65% ↓6km/h
 
 ## 🌟 Quote of the day:
-Leaders think and talk about solutions. Followers think and talk about the problems.
--Brian Tracy
+There is nothing quite so tragic as a young cynic.
+-Maya Angelou
