@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Partly cloudy +25°C 61% ↗4km/h
 
 ## 🌟 Quote of the day:
-Failure is acceptable. Not trying is a whole different ball park.
--Michael Jordan
+The greatest miracle is to be alive.
+-Thich Nhat Hanh
