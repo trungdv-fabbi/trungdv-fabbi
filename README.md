@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Mist +23°C 78% ↓4km/h
 
 ## 🌟 Quote of the day:
-I cannot make my days longer so I strive to make them better.
--Henry David Thoreau
+Life is a journey, not a destination.
+-Dan Millman
