@@ -18,8 +18,8 @@ Good evening 😴
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌟 Quote of the day:
-Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.
--Deepak Chopra
+One must be poor to know the luxury of giving.
+-George Eliot
 ## 🌤️ Today's Weather Forecast in My Hometown
 
 Hanoi, Vietnam - 2024-11-25
