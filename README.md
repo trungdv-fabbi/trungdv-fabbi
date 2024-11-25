@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Partly cloudy +22°C 83% ↙4km/h
+- Mist +23°C 78% ↓4km/h
 
 ## 🌟 Quote of the day:
-It's very strange that the people you love are often the people you're most cruel to.
--Kenneth Branagh
+I cannot make my days longer so I strive to make them better.
+-Henry David Thoreau
