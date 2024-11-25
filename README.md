@@ -17,5 +17,5 @@ Happy weekend 🏝🎶
 - Partly cloudy +26°C 65% ↓6km/h
 
 ## 🌟 Quote of the day:
-You drown not by falling into a river, but by staying submerged in it.
--Paulo Coelho
+Always do what is right. It will gratify half of mankind and astound the other.
+-Mark Twain
