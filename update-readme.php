@@ -82,7 +82,7 @@ function generateWeatherTable($data) {
     foreach ($hours as $hour) {
         $description = $hour['weatherDesc'][0]['value'] ?? "";
         $icon = getWeatherIcon($description);
-        $table .= "<td><img src='{$icon}' alt='{$description}'></td>";
+        $table .= "<td><img src='{$icon}' alt='{$description}' width='64' height='64'></td>";
     }
     $table .= "</tr>\n";
 
