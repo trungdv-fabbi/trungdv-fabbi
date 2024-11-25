@@ -1,4 +1,4 @@
-Good evening 🌈
+Good evening 🌟
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good evening 🌈
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌟 Quote of the day:
-Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.
--Carl Bard
+I begin with an idea and then it becomes something else.
+-Pablo Picasso
 ## 🌤️ Today's Weather Forecast in My Hometown
 
 Hanoi, Vietnam - 2024-11-25
