@@ -14,8 +14,8 @@ Happy weekend 🏝🎶
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌤️ Weather conditions today in Ha Noi:
-- Mist +23°C 78% ↓4km/h
+- Partly cloudy +26°C 65% ↓6km/h
 
 ## 🌟 Quote of the day:
-Life is a journey, not a destination.
--Dan Millman
+You drown not by falling into a river, but by staying submerged in it.
+-Paulo Coelho
