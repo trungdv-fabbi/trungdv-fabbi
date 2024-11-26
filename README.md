@@ -1,4 +1,4 @@
-Good night 🔥
+Good night 🏝
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,15 +14,15 @@ Good night 🔥
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌟 Quote of the day:
-You use a glass mirror to see your face; you use works of art to see your soul.
--George Bernard Shaw
+Mastering others is strength, mastering yourself is true power.
+-Lao Tzu
 ## 🌤️ Today's Weather Forecast in My Hometown
 
-Hanoi, Vietnam - 2024-11-26
+Hanoi, Vietnam - 2024-11-27
 <table>
     <tr><th>Hour</th><td>00:00</td><td>03:00</td><td>06:00</td><td>09:00</td><td>12:00</td><td>15:00</td><td>18:00</td><td>21:00</td></tr>
-    <tr><th>Weather</th><td><img src='https://cdn.weatherapi.com/weather/64x64/day/353.png' alt='Light rain shower' width='64' height='64'></td><td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png' alt='Patchy rain nearby' width='64' height='64'></td><td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png' alt='Patchy rain nearby' width='64' height='64'></td><td><img src='https://cdn.weatherapi.com/weather/64x64/day/176.png' alt='Patchy rain nearby' width='64' height='64'></td><td><img src='https://cdn-icons-png.flaticon.com/512/1116/1116453.png' alt='Overcast ' width='64' height='64'></td><td><img src='https://cdn-icons-png.flaticon.com/512/1116/1116453.png' alt='Cloudy ' width='64' height='64'></td><td><img src='https://cdn-icons-png.flaticon.com/512/1116/1116453.png' alt='Partly Cloudy ' width='64' height='64'></td><td><img src='https://cdn.weatherapi.com/weather/64x64/day/122.png' alt='Overcast' width='64' height='64'></td></tr>
-    <tr><th>Condition</th><td>Light rain shower</td><td>Patchy rain nearby</td><td>Patchy rain nearby</td><td>Patchy rain nearby</td><td>Overcast </td><td>Cloudy </td><td>Partly Cloudy </td><td>Overcast</td></tr>
-    <tr><th>Temperature</th><td>23°C</td><td>20°C</td><td>19°C</td><td>18°C</td><td>20°C</td><td>20°C</td><td>19°C</td><td>19°C</td></tr>
-    <tr><th>Wind</th><td>8 kph</td><td>27 kph</td><td>24 kph</td><td>22 kph</td><td>19 kph</td><td>12 kph</td><td>9 kph</td><td>9 kph</td></tr>
+    <tr><th>Weather</th><td><img src='https://cdn-icons-png.flaticon.com/512/1116/1116453.png' alt='Partly Cloudy ' width='64' height='64'></td><td><img src='https://cdn-icons-png.flaticon.com/512/1116/1116453.png' alt='Cloudy ' width='64' height='64'></td><td><img src='https://cdn-icons-png.flaticon.com/512/1116/1116453.png' alt='Cloudy ' width='64' height='64'></td><td><img src='https://cdn-icons-png.flaticon.com/512/1116/1116453.png' alt='Cloudy ' width='64' height='64'></td><td><img src='https://cdn-icons-png.flaticon.com/512/1116/1116453.png' alt='Partly Cloudy ' width='64' height='64'></td><td><img src='https://cdn-icons-png.flaticon.com/512/1116/1116453.png' alt='Overcast ' width='64' height='64'></td><td><img src='https://cdn-icons-png.flaticon.com/512/1116/1116453.png' alt='Overcast ' width='64' height='64'></td><td><img src='https://cdn-icons-png.flaticon.com/512/1116/1116453.png' alt='Partly Cloudy ' width='64' height='64'></td></tr>
+    <tr><th>Condition</th><td>Partly Cloudy </td><td>Cloudy </td><td>Cloudy </td><td>Cloudy </td><td>Partly Cloudy </td><td>Overcast </td><td>Overcast </td><td>Partly Cloudy </td></tr>
+    <tr><th>Temperature</th><td>19°C</td><td>19°C</td><td>19°C</td><td>20°C</td><td>20°C</td><td>20°C</td><td>19°C</td><td>18°C</td></tr>
+    <tr><th>Wind</th><td>7 kph</td><td>6 kph</td><td>8 kph</td><td>18 kph</td><td>23 kph</td><td>19 kph</td><td>21 kph</td><td>18 kph</td></tr>
 </table>
