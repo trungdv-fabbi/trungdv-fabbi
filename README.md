@@ -1,4 +1,4 @@
-Good afternoon 🔥
+Good afternoon 📅
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=trungdv-fabbi&show_icons=true&theme=cobalt&show=reviews,prs_merged"></a>
 - Understands <code>OOP</code> well
 - <code>HTML</code>, <code>CSS</code>, <code>Bootstrap</code>: proficient
@@ -14,8 +14,8 @@ Good afternoon 🔥
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌟 Quote of the day:
-Happiness is not the absence of problems, it's the ability to deal with them.
--Steve Maraboli
+Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.
+-Elon Musk
 ## 🌤️ Today's Weather Forecast in My Hometown
 
 Hanoi, Vietnam - 2024-11-26
