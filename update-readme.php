@@ -45,7 +45,7 @@ function generateWeatherTable() {
         $winds[] = $entry['wind']['speed'] . " kph";
     }
 
-    $htmlTable = "<table border='1' style='border-collapse: collapse; width: 100%; text-align: center;'>\n";
+    $htmlTable = "<table style='border-collapse: collapse; width: 100%; text-align: center;'>\n";
     $htmlTable .= "<tr><th>Hour</th>";
     foreach ($hours as $hour) {
         $htmlTable .= "<td>$hour</td>";
