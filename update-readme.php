@@ -1,110 +1,100 @@
 <?php
 date_default_timezone_set('Asia/Ho_Chi_Minh');
-function fetchWeatherData($location = "Hanoi") {
-    $url = "https://wttr.in/{$location}?format=j1";
-    $response = file_get_contents($url);
-    return json_decode($response, true);
-}
 
-function getWeatherIcon($description) {
-    $iconMap = [
-        "Sunny" => "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "Clear" => "https://cdn.weatherapi.com/weather/64x64/day/113.png",
-        "Partly cloudy" => "https://cdn.weatherapi.com/weather/64x64/day/116.png",
-        "Cloudy" => "https://cdn.weatherapi.com/weather/64x64/day/119.png",
-        "Overcast" => "https://cdn.weatherapi.com/weather/64x64/day/122.png",
-        "Patchy rain nearby" => "https://cdn.weatherapi.com/weather/64x64/day/176.png",
-        "Patchy snow nearby" => "https://cdn.weatherapi.com/weather/64x64/day/179.png",
-        "Patchy sleet nearby" => "https://cdn.weatherapi.com/weather/64x64/day/182.png",
-        "Patchy freezing drizzle nearby" => "https://cdn.weatherapi.com/weather/64x64/day/185.png",
-        "Thundery outbreaks possible" => "https://cdn.weatherapi.com/weather/64x64/day/200.png",
-        "Blowing snow" => "https://cdn.weatherapi.com/weather/64x64/day/227.png",
-        "Blizzard" => "https://cdn.weatherapi.com/weather/64x64/day/230.png",
-        "Fog" => "https://cdn.weatherapi.com/weather/64x64/day/248.png",
-        "Freezing fog" => "https://cdn.weatherapi.com/weather/64x64/day/260.png",
-        "Patchy light drizzle" => "https://cdn.weatherapi.com/weather/64x64/day/263.png",
-        "Light drizzle" => "https://cdn.weatherapi.com/weather/64x64/day/266.png",
-        "Freezing drizzle" => "https://cdn.weatherapi.com/weather/64x64/day/281.png",
-        "Heavy freezing drizzle" => "https://cdn.weatherapi.com/weather/64x64/day/284.png",
-        "Patchy light rain" => "https://cdn.weatherapi.com/weather/64x64/day/293.png",
-        "Light rain" => "https://cdn.weatherapi.com/weather/64x64/day/296.png",
-        "Moderate rain at times" => "https://cdn.weatherapi.com/weather/64x64/day/299.png",
-        "Moderate rain" => "https://cdn.weatherapi.com/weather/64x64/day/302.png",
-        "Heavy rain at times" => "https://cdn.weatherapi.com/weather/64x64/day/305.png",
-        "Heavy rain" => "https://cdn.weatherapi.com/weather/64x64/day/308.png",
-        "Light freezing rain" => "https://cdn.weatherapi.com/weather/64x64/day/311.png",
-        "Moderate or heavy freezing rain" => "https://cdn.weatherapi.com/weather/64x64/day/314.png",
-        "Light sleet" => "https://cdn.weatherapi.com/weather/64x64/day/317.png",
-        "Moderate or heavy sleet" => "https://cdn.weatherapi.com/weather/64x64/day/320.png",
-        "Patchy light snow" => "https://cdn.weatherapi.com/weather/64x64/day/323.png",
-        "Light snow" => "https://cdn.weatherapi.com/weather/64x64/day/326.png",
-        "Patchy moderate snow" => "https://cdn.weatherapi.com/weather/64x64/day/329.png",
-        "Moderate snow" => "https://cdn.weatherapi.com/weather/64x64/day/332.png",
-        "Patchy heavy snow" => "https://cdn.weatherapi.com/weather/64x64/day/335.png",
-        "Heavy snow" => "https://cdn.weatherapi.com/weather/64x64/day/338.png",
-        "Ice pellets" => "https://cdn.weatherapi.com/weather/64x64/day/350.png",
-        "Light rain shower" => "https://cdn.weatherapi.com/weather/64x64/day/353.png",
-        "Moderate or heavy rain shower" => "https://cdn.weatherapi.com/weather/64x64/day/356.png",
-        "Torrential rain shower" => "https://cdn.weatherapi.com/weather/64x64/day/359.png",
-        "Light sleet showers" => "https://cdn.weatherapi.com/weather/64x64/day/362.png",
-        "Moderate or heavy sleet showers" => "https://cdn.weatherapi.com/weather/64x64/day/365.png",
-        "Light snow showers" => "https://cdn.weatherapi.com/weather/64x64/day/368.png",
-        "Moderate or heavy snow showers" => "https://cdn.weatherapi.com/weather/64x64/day/371.png",
-        "Light showers of ice pellets" => "https://cdn.weatherapi.com/weather/64x64/day/374.png",
-        "Moderate or heavy showers of ice pellets" => "https://cdn.weatherapi.com/weather/64x64/day/377.png",
-        "Patchy light rain with thunder" => "https://cdn.weatherapi.com/weather/64x64/day/386.png",
-        "Moderate or heavy rain with thunder" => "https://cdn.weatherapi.com/weather/64x64/day/389.png",
-        "Patchy light snow with thunder" => "https://cdn.weatherapi.com/weather/64x64/day/392.png",
-        "Moderate or heavy snow with thunder" => "https://cdn.weatherapi.com/weather/64x64/day/395.png",
-        "Clear (Night)" => "https://cdn.weatherapi.com/weather/64x64/night/113.png",
-        "Partly cloudy (Night)" => "https://cdn.weatherapi.com/weather/64x64/night/116.png",
-        "Cloudy (Night)" => "https://cdn.weatherapi.com/weather/64x64/night/119.png",
-        "Overcast (Night)" => "https://cdn.weatherapi.com/weather/64x64/night/122.png",
-        "default" => "https://cdn-icons-png.flaticon.com/512/1116/1116453.png",
-    ];
+function generateWeatherTable() {
+    // API Key và URL
+    $apiKey = getenv('API_WEATHER_KEY');
+    $city = 'Hanoi';
+    $units = 'metric';
+    $apiUrl = "https://api.openweathermap.org/data/2.5/forecast?q=$city&units=$units&appid=$apiKey";
 
+// Gửi yêu cầu API
+    $response = file_get_contents($apiUrl);
 
-    return $iconMap[$description] ?? $iconMap['default'];
-}
-
-function generateWeatherTable($data) {
-    $hours = $data['weather'][0]['hourly'];
-    $table = "Hanoi, Vietnam - " . date('Y-m-d') . PHP_EOL;
-    $table .= "<table>\n";
-    $table .= "    <tr><th>Hour</th>";
-    foreach ($hours as $hour) {
-        $time = sprintf("%02d:00", $hour['time'] / 100);
-        $table .= "<td>" . $time . "</td>";
+    if ($response === false) {
+        echo "Cannot get data in OpenWeatherMap.\n";
+        exit(1);
     }
-    $table .= "</tr>\n";
 
-    $table .= "    <tr><th>Weather</th>";
-    foreach ($hours as $hour) {
-        $description = $hour['weatherDesc'][0]['value'] ?? "";
-        $icon = getWeatherIcon($description);
-        $table .= "<td><img src='{$icon}' alt='{$description}' width='64' height='64'></td>";
-    }
-    $table .= "</tr>\n";
+// Phân tích dữ liệu JSON
+    $data = json_decode($response, true);
 
-    $table .= "    <tr><th>Condition</th>";
-    foreach ($hours as $hour) {
-        $table .= "<td>" . $hour['weatherDesc'][0]['value'] . "</td>";
+    if ($data['cod'] !== "200") {
+        echo "Cannot get data in OpenWeatherMap.\n";
+        exit(1);
     }
-    $table .= "</tr>\n";
 
-    $table .= "    <tr><th>Temperature</th>";
-    foreach ($hours as $hour) {
-        $table .= "<td>" . $hour['tempC'] . "°C</td>";
-    }
-    $table .= "</tr>\n";
+    $hours = [];
+    $icons = [];
+    $conditions = [];
+    $temperatures = [];
+    $humidities = [];
+    $pressures = [];
+    $winds = [];
+    $rainChances = [];
 
-    $table .= "    <tr><th>Wind</th>";
-    foreach ($hours as $hour) {
-        $table .= "<td>" . $hour['windspeedKmph'] . " kph</td>";
+    foreach ($data['list'] as $index => $entry) {
+        $hours[] = date('H:i', $entry['dt']);
+        $icons[] = "https://openweathermap.org/img/wn/" . $entry['weather'][0]['icon'] . ".png";
+        $conditions[] = $entry['weather'][0]['description'];
+        $temperatures[] = round($entry['main']['temp']) . "°C";
+        $humidities[] = $entry['main']['humidity'] . "%";
+        $rainChance = isset($entry['pop']) ? ($entry['pop'] * 100) . "%" : "0%";
+        $rainChances[] = $rainChance;
+        $winds[] = $entry['wind']['speed'] . " kph";
     }
-    $table .= "</tr>\n";
-    $table .= "</table>";
-    return $table;
+
+    $htmlTable = "<table border='1' style='border-collapse: collapse; width: 100%; text-align: center;'>\n";
+    $htmlTable .= "<tr><th>Hour</th>";
+    foreach ($hours as $hour) {
+        $htmlTable .= "<td>$hour</td>";
+    }
+    $htmlTable .= "</tr>\n";
+
+    $htmlTable .= "<tr><th>Weather</th>";
+    foreach ($icons as $icon) {
+        $htmlTable .= "<td><img src='$icon' alt='Weather icon' style='width: 50px; height: 50px;'></td>";
+    }
+    $htmlTable .= "</tr>\n";
+
+    $htmlTable .= "<tr><th>Condition</th>";
+    foreach ($conditions as $condition) {
+        $htmlTable .= "<td>$condition</td>";
+    }
+    $htmlTable .= "</tr>\n";
+
+    $htmlTable .= "<tr><th>Temperature</th>";
+    foreach ($temperatures as $temp) {
+        $htmlTable .= "<td>$temp</td>";
+    }
+    $htmlTable .= "</tr>\n";
+
+    $htmlTable .= "<tr><th>Humidity</th>";
+    foreach ($humidities as $humidity) {
+        if ($humidity >= 40 && $humidity <= 70) {
+            $humiditySafety = "Safe";
+        } elseif ($humidity < 30) {
+            $humiditySafety = "Too Dry";
+        } else {
+            $humiditySafety = "Too Humid";
+        }
+        $htmlTable .= "<td><p>$humidity</p><p>$humiditySafety</p></td>";
+    }
+    $htmlTable .= "</tr>\n";
+
+    $htmlTable .= "<tr><th>Rain Probability</th>";
+    foreach ($rainChances as $chance) $htmlTable .= "<td>$chance</td>";
+    $htmlTable .= "</tr>\n";
+
+    $htmlTable .= "<tr><th>Wind</th>";
+    foreach ($winds as $wind) {
+        $htmlTable .= "<td>$wind</td>";
+    }
+    $htmlTable .= "</tr>\n";
+
+    $htmlTable .= "</table>";
+
+    return $htmlTable;
 }
 function isWeekend() {
     $now = new DateTime();
@@ -158,8 +148,7 @@ if (isset($quoteData[0]['q'], $quoteData[0]['a'])) {
     $quoteSection = $textQuote . PHP_EOL . $quote . PHP_EOL . "-" . $author;
 }
 
-$data = fetchWeatherData();
-$table = generateWeatherTable($data);
+$table = generateWeatherTable();
 
 $weatherInfo = PHP_EOL . $textWeather . PHP_EOL . PHP_EOL . $table;
 $tempWeather = null;
