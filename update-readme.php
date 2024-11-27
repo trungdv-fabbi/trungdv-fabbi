@@ -34,6 +34,7 @@ function generateWeatherTable() {
     $rainChances = [];
 
     foreach ($data['list'] as $index => $entry) {
+        if ($index >= 8) break;
         $hours[] = date('H:i', $entry['dt']);
         $icons[] = "https://openweathermap.org/img/wn/" . $entry['weather'][0]['icon'] . ".png";
         $conditions[] = $entry['weather'][0]['description'];
