@@ -3,7 +3,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 
 function generateWeatherTable() {
     // API Key và URL
-    $apiKey = getenv('API_WEATHER_NEW_KEY');
+    $apiKey = getenv('API_WEATHER_KEY');
     $city = 'Hanoi';
     $units = 'metric';
     $apiUrl = "https://api.openweathermap.org/data/2.5/forecast?q=$city&units=$units&appid=$apiKey";
