@@ -14,16 +14,16 @@ Happy weekend 🏝🎉
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌟 Quote of the day:
-Lack of emotion causes lack of progress and lack of motivation.
--Tony Robbins
+20 percent of your activities will account for 80 percent of your results.
+-Brian Tracy
 ## 🌤️ Today's Weather Forecast in My Hometown
 
 <table style='border-collapse: collapse; width: 100%; text-align: center;'>
-<tr><th>Hour</th><td>22:00</td><td>01:00</td><td>04:00</td><td>07:00</td><td>10:00</td><td>13:00</td><td>16:00</td><td>19:00</td></tr>
-<tr><th>Weather</th><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td></tr>
+<tr><th>Hour</th><td>01:00</td><td>04:00</td><td>07:00</td><td>10:00</td><td>13:00</td><td>16:00</td><td>19:00</td><td>22:00</td></tr>
+<tr><th>Weather</th><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td></tr>
 <tr><th>Condition</th><td>clear sky</td><td>clear sky</td><td>clear sky</td><td>clear sky</td><td>clear sky</td><td>clear sky</td><td>clear sky</td><td>clear sky</td></tr>
-<tr><th>Temperature</th><td>20°C</td><td>18°C</td><td>16°C</td><td>15°C</td><td>22°C</td><td>26°C</td><td>26°C</td><td>20°C</td></tr>
-<tr><th>Humidity</th><td><p>48%</p><p>Safe</p></td><td><p>55%</p><p>Safe</p></td><td><p>68%</p><p>Safe</p></td><td><p>75%</p><p>Too Humid</p></td><td><p>47%</p><p>Safe</p></td><td><p>33%</p><p>Too Humid</p></td><td><p>32%</p><p>Too Humid</p></td><td><p>60%</p><p>Safe</p></td></tr>
+<tr><th>Temperature</th><td>18°C</td><td>17°C</td><td>15°C</td><td>21°C</td><td>26°C</td><td>26°C</td><td>20°C</td><td>18°C</td></tr>
+<tr><th>Humidity</th><td><p>50%</p><p>Safe</p></td><td><p>59%</p><p>Safe</p></td><td><p>70%</p><p>Too Humid</p></td><td><p>45%</p><p>Safe</p></td><td><p>32%</p><p>Too Humid</p></td><td><p>31%</p><p>Too Humid</p></td><td><p>56%</p><p>Safe</p></td><td><p>74%</p><p>Too Humid</p></td></tr>
 <tr><th>Rain Probability</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td></tr>
-<tr><th>Wind</th><td>3.48 kph</td><td>2.82 kph</td><td>2.37 kph</td><td>2.06 kph</td><td>3.18 kph</td><td>3.66 kph</td><td>5.01 kph</td><td>6.06 kph</td></tr>
+<tr><th>Wind</th><td>2.92 kph</td><td>2.35 kph</td><td>1.89 kph</td><td>3.12 kph</td><td>3.55 kph</td><td>5.25 kph</td><td>6.09 kph</td><td>3.83 kph</td></tr>
 </table>
