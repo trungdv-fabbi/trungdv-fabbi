@@ -14,8 +14,8 @@ Happy weekend 🏝🎉
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌟 Quote of the day:
-It's the job that's never started that takes the longest to finish.
--J.R.R. Tolkien
+Don't let them drag you down by rumors. Just go with what you believe in.
+-Michael Jordan
 
 
 
@@ -46,11 +46,11 @@ It's the job that's never started that takes the longest to finish.
 ## 🌤️ Today's Weather Forecast in My Hometown
 
 <table style='border-collapse: collapse; width: 100%; text-align: center;'>
-<tr><th>Hour</th><td>16:00</td><td>19:00</td><td>22:00</td><td>01:00</td><td>04:00</td><td>07:00</td><td>10:00</td><td>13:00</td></tr>
-<tr><th>Weather</th><td><img src='https://openweathermap.org/img/wn/02d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/03n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/03d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td></tr>
-<tr><th>Condition</th><td>few clouds</td><td>moderate rain</td><td>broken clouds</td><td>broken clouds</td><td>scattered clouds</td><td>scattered clouds</td><td>light rain</td><td>broken clouds</td></tr>
-<tr><th>Temperature</th><td>32°C</td><td>31°C</td><td>29°C</td><td>27°C</td><td>25°C</td><td>27°C</td><td>31°C</td><td>35°C</td></tr>
-<tr><th>Humidity</th><td><p>61%</p><p>Safe</p></td><td><p>69%</p><p>Safe</p></td><td><p>80%</p><p>Too Humid</p></td><td><p>91%</p><p>Too Humid</p></td><td><p>95%</p><p>Too Humid</p></td><td><p>89%</p><p>Too Humid</p></td><td><p>69%</p><p>Safe</p></td><td><p>52%</p><p>Safe</p></td></tr>
-<tr><th>Rain Probability</th><td>0%</td><td>100%</td><td>5%</td><td>0%</td><td>0%</td><td>0%</td><td>20%</td><td>0%</td></tr>
-<tr><th>Wind</th><td>5.71 kph</td><td>4.78 kph</td><td>5.84 kph</td><td>4.41 kph</td><td>2.53 kph</td><td>2.66 kph</td><td>0.66 kph</td><td>0.96 kph</td></tr>
+<tr><th>Hour</th><td>22:00</td><td>01:00</td><td>04:00</td><td>07:00</td><td>10:00</td><td>13:00</td><td>16:00</td><td>19:00</td></tr>
+<tr><th>Weather</th><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/03n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/03n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/03d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td></tr>
+<tr><th>Condition</th><td>light rain</td><td>scattered clouds</td><td>scattered clouds</td><td>scattered clouds</td><td>overcast clouds</td><td>overcast clouds</td><td>overcast clouds</td><td>light rain</td></tr>
+<tr><th>Temperature</th><td>28°C</td><td>28°C</td><td>25°C</td><td>27°C</td><td>30°C</td><td>34°C</td><td>36°C</td><td>30°C</td></tr>
+<tr><th>Humidity</th><td><p>79%</p><p>Too Humid</p></td><td><p>86%</p><p>Too Humid</p></td><td><p>95%</p><p>Too Humid</p></td><td><p>89%</p><p>Too Humid</p></td><td><p>71%</p><p>Too Humid</p></td><td><p>51%</p><p>Safe</p></td><td><p>45%</p><p>Safe</p></td><td><p>76%</p><p>Too Humid</p></td></tr>
+<tr><th>Rain Probability</th><td>92%</td><td>71%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>20%</td></tr>
+<tr><th>Wind</th><td>5.83 kph</td><td>4.86 kph</td><td>2.54 kph</td><td>1.99 kph</td><td>0.38 kph</td><td>1.5 kph</td><td>2.78 kph</td><td>5.56 kph</td></tr>
 </table>
