@@ -14,8 +14,8 @@ Happy weekend 🏝🎉
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌟 Quote of the day:
-Not all those who wander are lost.
--J.R.R. Tolkien
+To do great work one must be very idle as well as very industrious.
+-Samuel Butler
 
 
 
@@ -58,11 +58,11 @@ Not all those who wander are lost.
 ## 🌤️ Today's Weather Forecast in My Hometown
 
 <table style='border-collapse: collapse; width: 100%; text-align: center;'>
-<tr><th>Hour</th><td>04:00</td><td>07:00</td><td>10:00</td><td>13:00</td><td>16:00</td><td>19:00</td><td>22:00</td><td>01:00</td></tr>
-<tr><th>Weather</th><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td></tr>
+<tr><th>Hour</th><td>13:00</td><td>16:00</td><td>19:00</td><td>22:00</td><td>01:00</td><td>04:00</td><td>07:00</td><td>10:00</td></tr>
+<tr><th>Weather</th><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td></tr>
 <tr><th>Condition</th><td>light rain</td><td>light rain</td><td>light rain</td><td>light rain</td><td>light rain</td><td>light rain</td><td>moderate rain</td><td>light rain</td></tr>
-<tr><th>Temperature</th><td>18°C</td><td>18°C</td><td>18°C</td><td>18°C</td><td>18°C</td><td>19°C</td><td>17°C</td><td>17°C</td></tr>
-<tr><th>Humidity</th><td><p>85%</p><p>Too Humid</p></td><td><p>83%</p><p>Too Humid</p></td><td><p>82%</p><p>Too Humid</p></td><td><p>85%</p><p>Too Humid</p></td><td><p>84%</p><p>Too Humid</p></td><td><p>83%</p><p>Too Humid</p></td><td><p>89%</p><p>Too Humid</p></td><td><p>89%</p><p>Too Humid</p></td></tr>
-<tr><th>Rain Probability</th><td>34%</td><td>20%</td><td>67%</td><td>100%</td><td>100%</td><td>75%</td><td>100%</td><td>100%</td></tr>
-<tr><th>Wind</th><td>4.98 kph</td><td>4.82 kph</td><td>4.51 kph</td><td>4.86 kph</td><td>3.85 kph</td><td>4.52 kph</td><td>3.88 kph</td><td>3.71 kph</td></tr>
+<tr><th>Temperature</th><td>18°C</td><td>18°C</td><td>18°C</td><td>17°C</td><td>17°C</td><td>17°C</td><td>16°C</td><td>17°C</td></tr>
+<tr><th>Humidity</th><td><p>88%</p><p>Too Humid</p></td><td><p>85%</p><p>Too Humid</p></td><td><p>83%</p><p>Too Humid</p></td><td><p>85%</p><p>Too Humid</p></td><td><p>91%</p><p>Too Humid</p></td><td><p>91%</p><p>Too Humid</p></td><td><p>92%</p><p>Too Humid</p></td><td><p>90%</p><p>Too Humid</p></td></tr>
+<tr><th>Rain Probability</th><td>100%</td><td>69%</td><td>84%</td><td>100%</td><td>100%</td><td>100%</td><td>100%</td><td>100%</td></tr>
+<tr><th>Wind</th><td>4.81 kph</td><td>4.19 kph</td><td>4.99 kph</td><td>4.53 kph</td><td>3.44 kph</td><td>3.29 kph</td><td>3.12 kph</td><td>3.25 kph</td></tr>
 </table>
