@@ -14,8 +14,8 @@ Happy weekend 🏝🎉
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungdv-fabbi&show_icons=true&theme=cobalt&layout=compact">
 
 ## 🌟 Quote of the day:
-Great deeds are usually wrought at great risks.
--Herodotus
+The difference between treason and patriotism is only a matter of dates.
+-Alexandre Dumas
 
 
 
@@ -98,11 +98,11 @@ Great deeds are usually wrought at great risks.
 ## 🌤️ Today's Weather Forecast in My Hometown
 
 <table style='border-collapse: collapse; width: 100%; text-align: center;'>
-<tr><th>Hour</th><td>04:00</td><td>07:00</td><td>10:00</td><td>13:00</td><td>16:00</td><td>19:00</td><td>22:00</td><td>01:00</td></tr>
-<tr><th>Weather</th><td><img src='https://openweathermap.org/img/wn/03n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/03n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td></tr>
-<tr><th>Condition</th><td>scattered clouds</td><td>broken clouds</td><td>broken clouds</td><td>broken clouds</td><td>light rain</td><td>broken clouds</td><td>scattered clouds</td><td>light rain</td></tr>
-<tr><th>Temperature</th><td>20°C</td><td>20°C</td><td>22°C</td><td>26°C</td><td>24°C</td><td>22°C</td><td>21°C</td><td>21°C</td></tr>
-<tr><th>Humidity</th><td><p>79%</p><p>Too Humid</p></td><td><p>80%</p><p>Too Humid</p></td><td><p>73%</p><p>Too Humid</p></td><td><p>55%</p><p>Safe</p></td><td><p>67%</p><p>Safe</p></td><td><p>81%</p><p>Too Humid</p></td><td><p>89%</p><p>Too Humid</p></td><td><p>89%</p><p>Too Humid</p></td></tr>
-<tr><th>Rain Probability</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>20%</td><td>0%</td><td>0%</td><td>20%</td></tr>
-<tr><th>Wind</th><td>2.44 kph</td><td>2.22 kph</td><td>2.7 kph</td><td>3.28 kph</td><td>4.86 kph</td><td>5.23 kph</td><td>3.16 kph</td><td>2.79 kph</td></tr>
+<tr><th>Hour</th><td>13:00</td><td>16:00</td><td>19:00</td><td>22:00</td><td>01:00</td><td>04:00</td><td>07:00</td><td>10:00</td></tr>
+<tr><th>Weather</th><td><img src='https://openweathermap.org/img/wn/04d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/03n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td></tr>
+<tr><th>Condition</th><td>broken clouds</td><td>light rain</td><td>broken clouds</td><td>scattered clouds</td><td>light rain</td><td>light rain</td><td>broken clouds</td><td>light rain</td></tr>
+<tr><th>Temperature</th><td>24°C</td><td>24°C</td><td>22°C</td><td>21°C</td><td>21°C</td><td>20°C</td><td>20°C</td><td>24°C</td></tr>
+<tr><th>Humidity</th><td><p>60%</p><p>Safe</p></td><td><p>63%</p><p>Safe</p></td><td><p>74%</p><p>Too Humid</p></td><td><p>89%</p><p>Too Humid</p></td><td><p>89%</p><p>Too Humid</p></td><td><p>90%</p><p>Too Humid</p></td><td><p>92%</p><p>Too Humid</p></td><td><p>68%</p><p>Safe</p></td></tr>
+<tr><th>Rain Probability</th><td>0%</td><td>20%</td><td>0%</td><td>0%</td><td>20%</td><td>35%</td><td>0%</td><td>20%</td></tr>
+<tr><th>Wind</th><td>3.28 kph</td><td>4.86 kph</td><td>5.23 kph</td><td>3.16 kph</td><td>2.79 kph</td><td>2.45 kph</td><td>1.72 kph</td><td>2.63 kph</td></tr>
 </table>
