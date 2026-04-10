@@ -490,14 +490,15 @@ Happy weekend 🏝🎉
 
 
 
+
 ## 🌤️ Today's Weather Forecast in My Hometown
 
 <table style='border-collapse: collapse; width: 100%; text-align: center;'>
-<tr><th>Hour</th><td>04:00</td><td>07:00</td><td>10:00</td><td>13:00</td><td>16:00</td><td>19:00</td><td>22:00</td><td>01:00</td></tr>
-<tr><th>Weather</th><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/02d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td></tr>
-<tr><th>Condition</th><td>clear sky</td><td>clear sky</td><td>few clouds</td><td>clear sky</td><td>clear sky</td><td>clear sky</td><td>clear sky</td><td>clear sky</td></tr>
-<tr><th>Temperature</th><td>24°C</td><td>25°C</td><td>28°C</td><td>34°C</td><td>35°C</td><td>28°C</td><td>26°C</td><td>26°C</td></tr>
-<tr><th>Humidity</th><td><p>91%</p><p>Too Humid</p></td><td><p>89%</p><p>Too Humid</p></td><td><p>63%</p><p>Safe</p></td><td><p>24%</p><p>Too Dry</p></td><td><p>31%</p><p>Too Humid</p></td><td><p>63%</p><p>Safe</p></td><td><p>81%</p><p>Too Humid</p></td><td><p>80%</p><p>Too Humid</p></td></tr>
+<tr><th>Hour</th><td>13:00</td><td>16:00</td><td>19:00</td><td>22:00</td><td>01:00</td><td>04:00</td><td>07:00</td><td>10:00</td></tr>
+<tr><th>Weather</th><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/01d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/02d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td></tr>
+<tr><th>Condition</th><td>clear sky</td><td>clear sky</td><td>clear sky</td><td>clear sky</td><td>clear sky</td><td>clear sky</td><td>clear sky</td><td>few clouds</td></tr>
+<tr><th>Temperature</th><td>34°C</td><td>34°C</td><td>31°C</td><td>26°C</td><td>26°C</td><td>24°C</td><td>25°C</td><td>33°C</td></tr>
+<tr><th>Humidity</th><td><p>40%</p><p>Safe</p></td><td><p>40%</p><p>Safe</p></td><td><p>58%</p><p>Safe</p></td><td><p>83%</p><p>Too Humid</p></td><td><p>81%</p><p>Too Humid</p></td><td><p>89%</p><p>Too Humid</p></td><td><p>85%</p><p>Too Humid</p></td><td><p>49%</p><p>Safe</p></td></tr>
 <tr><th>Rain Probability</th><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td></tr>
-<tr><th>Wind</th><td>2.51 kph</td><td>2.96 kph</td><td>1.66 kph</td><td>0.88 kph</td><td>7.81 kph</td><td>4.7 kph</td><td>6.7 kph</td><td>3.62 kph</td></tr>
+<tr><th>Wind</th><td>1.11 kph</td><td>8.5 kph</td><td>4.85 kph</td><td>6.22 kph</td><td>3.22 kph</td><td>2.71 kph</td><td>2.56 kph</td><td>2.24 kph</td></tr>
 </table>
