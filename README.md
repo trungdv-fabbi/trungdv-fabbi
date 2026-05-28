@@ -730,14 +730,15 @@ Happy weekend 🏝🎉
 
 
 
+
 ## 🌤️ Today's Weather Forecast in My Hometown
 
 <table style='border-collapse: collapse; width: 100%; text-align: center;'>
-<tr><th>Hour</th><td>04:00</td><td>07:00</td><td>10:00</td><td>13:00</td><td>16:00</td><td>19:00</td><td>22:00</td><td>01:00</td></tr>
-<tr><th>Weather</th><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/02d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td></tr>
-<tr><th>Condition</th><td>light rain</td><td>light rain</td><td>few clouds</td><td>light rain</td><td>overcast clouds</td><td>broken clouds</td><td>light rain</td><td>light rain</td></tr>
-<tr><th>Temperature</th><td>27°C</td><td>28°C</td><td>33°C</td><td>32°C</td><td>35°C</td><td>31°C</td><td>29°C</td><td>28°C</td></tr>
-<tr><th>Humidity</th><td><p>85%</p><p>Too Humid</p></td><td><p>80%</p><p>Too Humid</p></td><td><p>53%</p><p>Safe</p></td><td><p>48%</p><p>Safe</p></td><td><p>51%</p><p>Safe</p></td><td><p>67%</p><p>Safe</p></td><td><p>80%</p><p>Too Humid</p></td><td><p>84%</p><p>Too Humid</p></td></tr>
-<tr><th>Rain Probability</th><td>49%</td><td>55%</td><td>0%</td><td>20%</td><td>0%</td><td>0%</td><td>50%</td><td>63%</td></tr>
-<tr><th>Wind</th><td>3.19 kph</td><td>3.32 kph</td><td>3.7 kph</td><td>3.54 kph</td><td>3.28 kph</td><td>5.25 kph</td><td>3.44 kph</td><td>2.69 kph</td></tr>
+<tr><th>Hour</th><td>07:00</td><td>10:00</td><td>13:00</td><td>16:00</td><td>19:00</td><td>22:00</td><td>01:00</td><td>04:00</td></tr>
+<tr><th>Weather</th><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/02d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04d.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/04n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td><td><img src='https://openweathermap.org/img/wn/10n.png' alt='Weather icon' style='width: 50px; height: 50px;'></td></tr>
+<tr><th>Condition</th><td>light rain</td><td>few clouds</td><td>light rain</td><td>overcast clouds</td><td>broken clouds</td><td>light rain</td><td>light rain</td><td>light rain</td></tr>
+<tr><th>Temperature</th><td>27°C</td><td>31°C</td><td>32°C</td><td>35°C</td><td>31°C</td><td>29°C</td><td>28°C</td><td>27°C</td></tr>
+<tr><th>Humidity</th><td><p>83%</p><p>Too Humid</p></td><td><p>64%</p><p>Safe</p></td><td><p>48%</p><p>Safe</p></td><td><p>51%</p><p>Safe</p></td><td><p>67%</p><p>Safe</p></td><td><p>80%</p><p>Too Humid</p></td><td><p>84%</p><p>Too Humid</p></td><td><p>89%</p><p>Too Humid</p></td></tr>
+<tr><th>Rain Probability</th><td>55%</td><td>0%</td><td>20%</td><td>0%</td><td>0%</td><td>50%</td><td>63%</td><td>100%</td></tr>
+<tr><th>Wind</th><td>3.32 kph</td><td>3.7 kph</td><td>3.54 kph</td><td>3.28 kph</td><td>5.25 kph</td><td>3.44 kph</td><td>2.69 kph</td><td>2.37 kph</td></tr>
 </table>
